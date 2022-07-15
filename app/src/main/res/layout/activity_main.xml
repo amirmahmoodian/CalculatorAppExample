@@ -73,7 +73,7 @@
                 android:onClick="bracketsOnClick"
                 android:layout_margin="@dimen/CalcButtonSize"
 
-                android:text="("
+                android:text="(...)"
                 android:textColor="@color/text_color"
                 android:textSize="@dimen/calcButtonTextSize" />
 
@@ -85,7 +85,7 @@
                 android:onClick="powerOfOnClick"
                 android:layout_margin="@dimen/CalcButtonSize"
 
-                android:text=")"
+                android:text="^"
                 android:textColor="@color/text_color"
                 android:textSize="@dimen/calcButtonTextSize" />
 
