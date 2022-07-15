@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+<!--    <color name="red">#B22222</color>-->
+    <color name="white">#FFFFFF</color>
+    <color name="darkGrey">#202020</color>
+<!--    <color name="orange">#FF8C00</color>-->
+
+
+    <color name="col1">#6DF2F8</color>
+    <color name="colback">#4D5256</color>
+    <color name="col2">#E9FFBF</color>
+
+
+    <color name="green">#00CD69</color>
+    <color name="orange">#FF8E00</color>
+    <color name="dark_red">#FBECED</color>
+    <color name="red">#FA2743</color>
+    <color name="background">#17181A</color>
+    <color name="button_background">#E7F0F4</color>
+    <color name="text_color">#17181A</color>
+    <color name="uptext_color">#919599</color>
+</resources>
